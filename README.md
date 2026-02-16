@@ -5,8 +5,8 @@ Apply the Huffman and Shannon-Fano to this source.
 Show that by drawing the tree diagram, and 
 Calculate the average code word length, entropy, variance, redundancy, and efficiency.
 # Tools Required:
-# Program:
 
+# Program:
 ```asm
 import heapq, math
 
@@ -54,10 +54,10 @@ result(hf,"Huffman Performance")
 
 print("\nShannon-Fano Codes:",sf)
 result(sf,"Shannon-Fano Performance")
+
 ```asm
 
-# Calculation:
-
+#Calculation:
 ```
 Compare the manually calculated value and the observed practical value.
 ```
